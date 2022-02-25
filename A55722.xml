@@ -1,0 +1,145 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The present state of the Protestant religion in Mary-land</title>
+            <author>Lawrence, Thomas, Sir, b. ca. 1645.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1695</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 5 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A55722</idno>
+            <idno type="STC">Wing P3273</idno>
+            <idno type="STC">ESTC R10459</idno>
+            <idno type="EEBO-CITATION">13000092</idno>
+            <idno type="OCLC">ocm 13000092</idno>
+            <idno type="VID">96465</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A55722)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 96465)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 396:19)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The present state of the Protestant religion in Mary-land</title>
+                  <author>Lawrence, Thomas, Sir, b. ca. 1645.</author>
+               </titleStmt>
+               <extent>p. 3-4   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>ca. 1695]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Attributed to Thomas Lawrence. Cf. NUC pre-1956.</note>
+                  <note>Place and date of publication from Wing.</note>
+                  <note>Reproduction of original in British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Church of England --  United States.</term>
+               <term>Church of England --  Missions.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-01</date>
+            <label>Kayla Ondracek</label>Sampled and proofread</change>
+         <change>
+            <date>2010-01</date>
+            <label>Kayla Ondracek</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:96465:1"/>
+            <!-- PDF PAGE 10 -->
+            <pb n="3" facs="tcp:96465:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 10 -->
+            <head>THE PRESENT STATE OF The Proteſtant Religion IN MARY-LAND<g ref="char:punc">▪</g>
+            </head>
+            <p>IN the Year, 1691. His Majeſty having graciouſly thought ſit to take the Government of <hi>MARY-LAND</hi> into his own hands, and the Province into his Immediate Care: In <hi>May,</hi> 1692. an Act of Aſſembly paſs'd for the Eſtabliſhment of the Proteſtant Religion there, and for dividing of the <hi>TEN CO<g ref="char:V">Ʋ</g>NTIES</hi> thereof into Five and twenty Pariſhes, each of which, are endowed with a competent Maintenance for a Miniſter, But the Execution of that Act hath been in a manner wholly neglected, till it pleas'd His MAJESTY to confer the Government on the moſt Worthy and Excellent Perſon, <hi>FRANCIS NICHOLSON,</hi> 
+               <abbr>Eſq</abbr> who ſince his Arrival in <hi>Aug.</hi> 1694. with an in<g ref="char:EOLhyphen"/>defatigable Induſtry and Zeal to promote his MAJESTY's Honour, the Int<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>reſt of the <hi>Proteſtant Religion,</hi> and the Good of the whole Province, hath Revived and Reinforc'd the ſaid Act, by another Additional one, for the Increaſe and Maintenance of Religion; hath Collected the Arrears, and is now Building ſeveral Churches, beſides one Fine Church at <hi>ANNOPOLIS,</hi> in <hi>AR<g ref="char:V">Ʋ</g>NDEL</hi> County, with a Parſonage-Houſe to every Church; towards all which his Excellency, the Council, and other Inhabitants of the Province, have generouſly and largely Contributed.</p>
+            <p>And that a perpetual Succeſſion of <hi>Proteſtant</hi> Divines of the CHURCH OF <hi>ENGLAND,</hi> may be provided for the Propagation of the True Chriſtian Religion in the ſaid Colony, His EXCELLENCY hath by the Conſent of the Council and Burgeſſes in Aſſem<g ref="char:EOLhyphen"/>bly, promoted a Law, veſting a Power in certain Truſtees for Erecting one Free-School in each County: One of which is already begun at <hi>ANNOPOLIS,</hi> And is to be Endowed with 100 <abbr>
+                  <hi>l<g ref="char:punc">▪</g>
+                  </hi>
+               </abbr> Sterling <hi>per Annum</hi> for the Maintenance of one Maſter, and two Uſhers, for inſtructing the Youth of the ſaid Province in ARITHMETICK, NAVI<g ref="char:EOLhyphen"/>GATION, and all USEFUL LEARNING; but chiefly for the ſitting ſuch as are diſpos'd to Study DIVINITY, to be further Educated at His Majeſties <hi>COLLEGE ROYAL</hi> in <hi>VIRGINIA;</hi> in order, upon their Return, to be Ordained by the Lord Biſhop of <hi>LON<g ref="char:EOLhyphen"/>DON</hi>'s SUFFRAGAN Reſiding in the Province, both for that purpoſe, and to ſuperviſe the Lives of the Clergy thereof; for whoſe Support alſo, at the Requeſt and Recom<g ref="char:EOLhyphen"/>mendation of the Aſſembly, his EXCELLENCY hath ſettled a fair and competent Main<g ref="char:EOLhyphen"/>tenance.</p>
+            <pb n="4" facs="tcp:96465:2"/>
+            <!-- PDF PAGE 11 -->
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="4" facs="tcp:96465:3"/>
+            <!-- PDF PAGE 12 -->
+            <p>The Perſon now Deputed by the Lord Biſhop of <hi>LONDON,</hi> to be his COMMISSARY in <hi>MARY-LAND</hi> for the propagation of our moſt Holy Religion amongſt the Infi<g ref="char:EOLhyphen"/>dels, for the Inducement of Sober and Serious Young Divines, to go to the Foreign Plantati<g ref="char:EOLhyphen"/>ons, and for the better qualifying them for ſo Noble and Chriſtian an Employment, is now wholly buſied in Collecting of PAROCHIAL LIBRARIES of Choice and Uſeful Books, for the perpetual Uſe of ſuch of the Clergy, who ſhall now undertake that Voyage, and for all thoſe who ſhall ſucceed them. AND certainly, a more ſuitable Encouragement to Men of good parts and Inclinations, to go upon ſo Bleſſed a Miſſion, could not be thought of: For as it is Books alone which will encourage the moſt Studious, Vertuous, and conſequently the moſt Uſeful Perſons to go over; ſo it is an encouragement that is in a manner neceſſary to be provi<g ref="char:EOLhyphen"/>ded in the Foreign Plantations; ſince few or none at their firſt going over, are in a Condition to provide themſelves therewith; and when they are there<g ref="char:punc">▪</g> Books are hardly to be met with by thoſe who ſhall be able to buy them. And yet without a Competent Proviſion of ſe<g ref="char:EOLhyphen"/>veral Uſeful and Neceſſary Books, it is morally impoſſible that any ſhould be enabl'd to inſtruct their People.</p>
+            <p>And now that ſuch Excellent Works are joyntly begun, and carrying on, What a happy Conjuncture is this (which perhaps may not again recur) for Perſons who are Piouſly diſpos'd; to give their helping hand towards ſuch Bleſſed and Glorious Deſigns, as the propagating of true Chriſtian Knowledge and Practice in places formerly ſo much Uncultivated therewith. Sure if he who <hi>Converteth a</hi> ſingle <hi>Sinner from the Error of his Ways, ſhall hide a multitude of Sins,</hi> what abundant matter for comfortable; Reflections upon a Death-Bed, ſhall that Perſon lay up, who ſhall contribute towards providing of the moſt proper and Genuine Means, next to the Divinely Inſpired Writings, of Converting many poor Souls, not only in this, but in all future Generations, even ſo long as the Sun and Moon endureth.</p>
+            <epigraph>
+               <q>Benedicat Deus Operi &amp; faventibus.</q>
+            </epigraph>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
